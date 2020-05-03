@@ -8,6 +8,8 @@
    1. Item 3a
    1. Item 3b
 
+[click here](page2.md)
+
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
