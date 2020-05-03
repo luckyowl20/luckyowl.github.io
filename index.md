@@ -8,7 +8,7 @@
    1. Item 3a
    1. Item 3b
 
-[click here](page2.md)
+[click here](test1.md)
 
 ```javascript
 function fancyAlert(arg) {
